@@ -14,9 +14,8 @@ const config = {
     // Set the base and assets path for GitHub Pages
     paths: {
         base: '/Greg-Portfolio', // assuming your repo name is 'portfolio'
-        assets: '/portfolio'
-    },
-    target: '#svelte'
+        assets: 'https://gregkab.github.io/Greg-Portfolio'
+      },
   },
   preprocess: vitePreprocess()
 };
