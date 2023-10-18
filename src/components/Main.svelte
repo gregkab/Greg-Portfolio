@@ -59,8 +59,10 @@
         <span class="poppins text-violet-400">Developer</span>
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
-        My <span class="text-violet-400"> favorite tech</span> includes Python (Django),
-        Node.js & MySQL!
+        I specialize in <span class="text-violet-400"
+          >Python (Django), Node.js,</span
+        >
+        and <span class="text-violet-400">MySQL</span>.
       </p>
       <a
         href="https://www.linkedin.com/in/gregorykabakian"
