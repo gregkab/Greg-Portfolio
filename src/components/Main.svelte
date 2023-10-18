@@ -30,17 +30,17 @@
       metric: "10x",
       name: "a dedicated computer engineer with solid roots in mathematics and physics",
       description:
-        "Beginning my journey at GCC, I earned a BA in Mathematics and Physics before transferring to UCI to delve deep into Computer Engineering. My passion for software ignited during my high school AP CS class, where I was introduced to the boundless potential of coding and the power of creating software. Beyond just the allure of technology, it's the relentless problem-solving, the joy of facing new challenges, and the thrill of continuous learning that keeps me on this path.",
+        "My passion for software ignited during my high school AP CS class, where I was introduced to the boundless potential of coding and the power of creating software. Beyond just the allure of technology, it is the relentless problem-solving, the joy of facing new challenges, and the thrill of continuous learning that keeps me on this path.",
     },
     {
       name: "a backend development enthusiast",
       description:
-        "I've always been drawn to the logic and the intricate inner workings of systems. To me, backend development isn't just about writing code; it's about weaving together the very fabric of an application, ensuring its stability and functionality. I appreciate the foundation it lays down, much like the rigorous structures in mathematics and physics that I've studied, making all the flashy features on the frontend possible.",
+        "I have always been drawn to the logic and the intricate inner workings of systems. To me, backend development is not just about writing code; it is about weaving together the very fabric of an application, ensuring its stability and functionality. I appreciate the foundation it lays down, much like the rigorous structures in mathematics and physics that I have studied, making all the flashy features on the frontend possible.",
     },
     {
       name: "a design-conscious communicator",
       description:
-        "Design and communication stand hand in hand in my world. I understand the essence of translating intricate software functionalities into tangible business values. Clear communication isn't just about speaking; it's about ensuring mutual understanding. I firmly believe in the power of effective dialogue, not only to bridge the gap between technology and business but also to foster productive collaborations and deep-rooted professional relationships.",
+        "In my approach, design and communication are intertwined. I excel in demystifying complex software functionalities, transforming them into tangible business values. For me, effective communication transcends mere dialogue; it is about forging a mutual understanding. This philosophy does not just bridge the technological and business worlds; it nurtures collaborative, meaningful professional relationships.",
     },
   ];
 </script>
@@ -60,7 +60,7 @@
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
         My <span class="text-violet-400"> favorite tech</span> includes Python (Django),
-        Node.js & PostgreSQL or MySQL!
+        Node.js & MySQL!
       </p>
       <a
         href="https://www.linkedin.com/in/gregorykabakian"
@@ -265,6 +265,8 @@
     <div class="mx-auto -mt-12 italic sm:hidden opacity-50">
       <p>Scroll to see more &rarr;</p>
     </div>
-    <p class="mx-auto">So why not invest?</p>
+    <p class="mx-auto">
+      Ready to elevate your team with a game-changer? Let's talk!
+    </p>
   </section>
 </main>

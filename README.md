@@ -1,6 +1,6 @@
 # Gregory Kabakian's Professional Web Portfolio
 
-Welcome to the repository of my personal portfolio website, a project I crafted to showcase my skills, experiences, and projects as a professional. This site is built using the lightning-fast SvelteKit framework, coupled with the stylish and efficient TailwindCSS. It's designed to provide visitors with an intuitive user experience and give them an in-depth look at my professional journey and technical abilities.
+Welcome to the repository of my personal portfolio website, a project I crafted to showcase my skills, experiences, and projects as a professional. This site is built using the lightning-fast SvelteKit framework, coupled with the stylish and efficient TailwindCSS. it is designed to provide visitors with an intuitive user experience and give them an in-depth look at my professional journey and technical abilities.
 
 ## Features
 
@@ -14,10 +14,10 @@ Welcome to the repository of my personal portfolio website, a project I crafted 
 To set up a local development environment, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/hughjass-portfolio.git
+   git clone https://github.com/yourusername/gregkabakian-portfolio.git
 
 2. Navigate to the project directory:
-   cd hughjass-portfolio
+   cd gregkabakian-portfolio
 
 3. Install dependencies:
    npm install
