@@ -17,11 +17,11 @@
         "Developed a dynamic bot leveraging the Twitter API to automate actions based on specific hashtags. Deployed seamlessly with PythonAnywhere, the bot can handle up to 10,000 daily interactions.",
     },
     {
-      name: "UC Irvine Portal",
-      icon: "fa-solid fa-university",
-      href: "https://github.com/gregkab/fastapi-mongodb-crudapp",
+      name: "Counselor Agent",
+      icon: "fa-solid fa-user-graduate",
+      href: "https://github.com/gregkab/Counselor-Agent",
       description:
-        "Designed a school management system at UC Irvine with FastAPI and MongoDB, facilitating efficient student record management. The backend was powered by Flask, and it features a Twitter bot for automating tasks based on hashtags.",
+        "Developed an AI-powered counselor agent leveraging Langchain, OpenAI, and FastAPI to assist undergraduates with academic and personal needs. The system uses school data to provide personalized, real-time guidance, functioning like a human counselor.",
     },
   ];
 
