@@ -142,14 +142,12 @@
       </Step>
       <Step step={steps[2]}>
         <p>
-          The UC Irvine Portal is a school management platform backed by <strong
-            class="text-violet-400">FastAPI and MongoDB</strong
-          >. Developed at UC Irvine, it streamlines student record operations
-          with a robust backend powered by
-          <strong class="text-violet-400">Flask</strong>. Additionally, a unique
-          feature incorporates a
-          <strong class="text-violet-400">Twitter bot</strong> that automates tasks
-          based on specific hashtags.
+          Developed an AI-powered counselor agent leveraging <strong
+            class="text-violet-400">Langchain</strong
+          >, <strong class="text-violet-400">OpenAI</strong>, and
+          <strong class="text-violet-400">FastAPI</strong> to assist undergraduates
+          with academic and personal needs. The system uses school data to provide
+          personalized, real-time guidance, functioning like a human counselor.
         </p>
       </Step>
     </div>
